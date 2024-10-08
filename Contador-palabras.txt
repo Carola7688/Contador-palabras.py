@@ -1,0 +1,24 @@
+Práctica algoritmos 
+-------------------
+Problema planteado:
+El usuario quiere saber la cantidad de letras que hay en un palabras
+Haremos un contador de pablabras
+------------------
+Algoritmo:
+1. SOlicitar al usuario que ingrese una palabra
+2. COntar la cantidad de letras en la palabra
+3. Mostrar la cantidad de letras 
+-----------------
+Pseudocódigo:
+
+Iniciar programa
+ \\ Paso 1: 
+ Mostrar el msj: "Por favor, ingrese la palabra: "
+Establecer la variable palabra_ingresada
+
+ \\ Paso 2: establecer la variable cant_letras y asignarla a palabra_ingresada
+
+ \\ Paso 3: mostrar el msj "la cantidad de letras en la palabras ingresada es:", cant_letras
+
+FIn del programa
+ 
